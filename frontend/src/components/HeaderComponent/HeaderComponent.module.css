@@ -1,0 +1,60 @@
+
+.HeaderComponent {
+    background: #151414;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.HeaderMenuContainer {
+    display: flex;
+    align-items: center;
+    width: 40%;
+}
+
+.HeaderMenu {
+    background: #151414;
+    color: #fff;
+}
+
+.HeaderInputSearch {
+    width: 50%;
+}
+
+.HeaderLogin {
+    color: #fff;
+}
+
+.HeaderLogo {
+    font-size: 22px;
+    font-weight: 600;
+    color: #f41515;
+}
+
+.HeaderInfo {
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    background: none;
+    font-weight: 600;
+}
+
+.HeaderMenuInfo {
+    display: flex;
+}
+
+.HeaderMenuList {
+    list-style: none;
+    display: flex;
+}
+
+.HeaderMenuItem {
+    margin: 0 10px;
+}
+
+.HeaderMenuItemBTN {
+    border: none;
+    background: none;
+    color: #fff;
+    font-weight: 600;
+}

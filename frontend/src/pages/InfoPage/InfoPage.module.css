@@ -1,0 +1,17 @@
+.InfoPage {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.InfoContent {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.InfoItem {
+    display: flex;
+    
+}

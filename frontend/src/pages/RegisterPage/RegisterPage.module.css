@@ -1,0 +1,28 @@
+.RegisterPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.LoginForm {
+    padding: 50px 100px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.LoginBTNregister {
+    color: #fff;
+    width: 80%;
+}
+
+.LoginBTN {
+    width: 80%;
+    text-align: center;
+}
+
+.RegisterLoading {
+    position: absolute;
+    z-index: 1111;
+    padding: 100vh;
+}
